@@ -8,9 +8,13 @@
 ## Example Output
 
 Customer login is successful.
+
 Your current information: 
+
 YUSUF
+
 SOLMAZ
+
 2000
 
 Game's name: GTA V Discount rate of the game: 15.0 The price of the game without discount: 120.0 The new price of the game: 102.0
